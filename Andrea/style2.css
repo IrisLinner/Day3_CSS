@@ -1,0 +1,47 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.oneline {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div {
+    background-color: aqua;
+}
+
+.firstline {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.first {
+    flex-basis: 70%;
+    border: 5px solid black;
+}
+
+.second {
+    flex-basis: 30%;
+}
+
+.secondline {
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+    margin-top: 10;
+}
+
+.third {
+    flex-basis: 20%;
+    border: 10px solid black;
+}
+
+.fourth {
+    flex-basis: 80%;
+    border: 5px solid violet;
+}

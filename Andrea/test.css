@@ -1,0 +1,37 @@
+                .box-one {
+                    background-color: red;
+                    display: flex;
+                    height: 200px;
+                    flex-basis: 25%;
+                }
+                
+                .top-container {
+                    display: flex;
+                    flex-basis: 25%;
+                    align-items: center;
+                }
+                
+                .box-two {
+                    background-color: blue;
+                    height: 200px;
+                }
+                
+                .box-three {
+                    background-color: gray;
+                    height: 200px;
+                }
+                
+                .box-four {
+                    background-color: blueviolet;
+                    height: 200px;
+                }
+                
+                .box-five {
+                    background-color: yellow;
+                    height: 200px;
+                }
+                
+                .box-six {
+                    background-color: pink;
+                    height: 200px;
+                }
